@@ -58,7 +58,7 @@ Follow these steps to start using the repository:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Shrejaypatil/Python.git
 
 
 ## 🎉 Conclusion
